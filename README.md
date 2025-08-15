@@ -17,6 +17,7 @@ It is used to mechanically connect two parts while allowing for a certain rotati
 
 ### 1. Customized fillets for circular holes
 Applied a larger fillet on the outer edges to make the profile stand out, and a smaller, smoother fillet on the inner edges for a refined finish and reduced sharpness.
+
 ![fillet](fillet.gif)
 
 
