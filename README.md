@@ -25,6 +25,9 @@ Added chamfers to the main outer edges to create a sharper, more defined profile
 
 ![chamfer](chamfer.gif)
 
+### 3. Added base cut-outs to reduce weight and improve appearance
+Created cut-outs in the lower base section using Cut to reduce overall weight, applied fillets on the inner edges, and light chamfers on the outer edges to highlight the profile and maintain an aesthetic look.
+
 
 ## Preview
 *Front, Top, Left, and Trimetric views of the Elbow Joint.*
