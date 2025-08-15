@@ -25,4 +25,5 @@ It is used to mechanically connect two parts while allowing for a certain rotati
 ![thickness_example](images/thickness_example.png)
 
 ## Preview
+*Front, Top, Left, and Trimetric views of the Elbow Joint.*
 ![Elbow](Elbow.gif)
