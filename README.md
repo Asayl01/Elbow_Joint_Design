@@ -29,8 +29,8 @@ Added chamfers to the main outer edges to create a sharper, more defined profile
 Created cut-outs in the lower base section using Cut to reduce overall weight, applied fillets on the inner edges, and light chamfers on the outer edges to highlight the profile and maintain an aesthetic look.
 
 ### 4. Added custom logo
-In the final stage of the design, the logo image was converted from **PNG** to **SVG** using [Vectorizer](https://vectorizer.io/) and then to **DXF** using [CloudConvert](https://cloudconvert.com/) for insertion into SolidWorks.  
-The logo was placed on the surface of the part and embossed to reflect the project’s visual identity and add an extra aesthetic touch.
+In the final stage of the design, the logo image was converted from **PNG** to **SVG** and then to **DXF** using [Vectorizer](https://vectorizer.io/).  
+
 
 
 ## Preview
