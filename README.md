@@ -15,14 +15,12 @@ It is used to mechanically connect two parts while allowing for a certain rotati
 
 ## Design Improvements
 
-### 1. Added fillets to smooth edges and reduce sharp corners
-![fillets_example](images/fillets_example.png)
+### 1. Customized fillets for circular holes
+Applied a larger fillet on the outer edges to make the profile stand out, and a smaller, smoother fillet on the inner edges for a refined finish and reduced sharpness.
+![fillet](fillet.gif)
 
-### 2. Created cut-out openings from sketches to reduce weight and enhance the visual appearance
-![cutouts_example](images/cutouts_example.png)
 
-### 3. Adjusted thickness to increase durability while keeping the part lightweight
-![thickness_example](images/thickness_example.png)
+
 
 ## Preview
 *Front, Top, Left, and Trimetric views of the Elbow Joint.*
