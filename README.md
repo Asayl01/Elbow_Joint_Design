@@ -20,7 +20,10 @@ Applied a larger fillet on the outer edges to make the profile stand out, and a 
 
 ![fillet](fillet.gif)
 
+### 2. Applied chamfers to outer edges and lightly to inner holes
+Added chamfers to the main outer edges to create a sharper, more defined profile, and applied very light chamfers to the inner holes to maintain visual consistency in the design.
 
+![chamfer](chamfer.gif)
 
 
 ## Preview
