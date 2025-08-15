@@ -28,4 +28,5 @@ Added chamfers to the main outer edges to create a sharper, more defined profile
 
 ## Preview
 *Front, Top, Left, and Trimetric views of the Elbow Joint.*
+
 ![Elbow](Elbow.gif)
